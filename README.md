@@ -37,15 +37,15 @@ flutter run
 ## Screenshots
 
 - **Student login**
-  ![Student login](https://devishree2305/Flutter_quiz_app/Screenshots/Student_page.jpg)
-  ![Quiz Page](https://devishree2305/Flutter_quiz_app/Screenshots/Quiz_page.jpg)
-  ![Settings](https://devishree2305/Flutter_quiz_app/Screenshots/Settings.jpg)
-  ![Result Page](https://devishree2305/Flutter_quiz_app/screenshots/Result_page.jpg)
+  ![Student login](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Student_page.jpg)
+  ![Quiz Page](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Quiz_page.jpg)
+  ![Settings](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Settings.jpg)
+  ![Result Page](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Result_page.jpg)
 
 - **Admin Pane**
   ![Admin Panel](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Admin_panel.jpg)
-  ![Student attended quiz](https://devishree2305/Flutter_quiz_app/Screenshots/admin_panel.png)
-  ![Add questions](https://devishree2305/Flutter_quiz_app/Screenshots/quiz_screen.png)
-  ![Delete questions](https://devishree2305/Flutter_quiz_app/Screenshots/result_screen.png)
+  ![Student attended quiz](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Student_aattended_quizzes.jpg)
+  ![Add questions](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/add_question.jpg)
+  ![Delete questions](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Delete_question.jpg)
 
 
