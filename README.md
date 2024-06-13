@@ -62,4 +62,4 @@ After downloading the file, place it in the appropriate directory in your Flutte
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact me at [devishreenadar.official@gmail.com].
+If you have any questions or suggestions, feel free to open an issue or contact me at devishreenadar.official@gmail.com.
