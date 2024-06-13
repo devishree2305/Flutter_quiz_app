@@ -36,20 +36,18 @@ flutter run
 
 ## Screenshots
 
-- **Student login**
-  <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Student_page.jpg" alt="Student login" width="200" />
-  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Quiz_page.jpg" alt="Quiz Page" width="200" />
-  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Settings.jpg" alt="Settings" width="200" />
+### Student Features
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Student_page.jpg" alt="Student login" width="200" style="margin-right: 20px;" />
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Quiz_page.jpg" alt="Quiz Page" width="200" style="margin-right: 20px;" />
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Settings.jpg" alt="Settings" width="200" style="margin-right: 20px;" />
   <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Result_page.jpg" alt="Result Page" width="200" />
 </div>
 
-- **Admin Pane**
-  <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Admin_panel.jpg" alt="Admin Panel" width="200" />
-  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Student_aattended_quizzes.jpg" alt="Student attended quiz" width="200" />
-  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/add_question.jpg" alt="Add questions" width="200" />
+### Admin Panel Features
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Admin_panel.jpg" alt="Admin Panel" width="200" style="margin-right: 20px;" />
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Student_aattended_quizzes.jpg" alt="Student attended quiz" width="200" style="margin-right: 20px;" />
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/add_question.jpg" alt="Add questions" width="200" style="margin-right: 20px;" />
   <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Delete_question.jpg" alt="Delete questions" width="200" />
 </div>
-
-
