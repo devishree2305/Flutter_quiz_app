@@ -44,37 +44,37 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDy_5OPWwYcBYsR4-NYZUJZAHMsRsgMu7k',
-    appId: '1:777309420549:web:f87529b8a6cc0fb223b06c',
-    messagingSenderId: '777309420549',
-    projectId: 'brew-crew-a039e',
-    authDomain: 'brew-crew-a039e.firebaseapp.com',
-    storageBucket: 'brew-crew-a039e.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDPZgwZYN29haAR-KxoM5KS4RzGgUd2C18',
-    appId: '1:777309420549:android:bb19efd169084b2423b06c',
-    messagingSenderId: '777309420549',
-    projectId: 'brew-crew-a039e',
-    storageBucket: 'brew-crew-a039e.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC1KHpNsxDjcQd-COcYkA-92Yy9cCmQtSE',
-    appId: '1:777309420549:ios:3ee606d7c9a1b49823b06c',
-    messagingSenderId: '777309420549',
-    projectId: 'brew-crew-a039e',
-    storageBucket: 'brew-crew-a039e.appspot.com',
-    iosBundleId: 'com.example.flutterApplication1',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC1KHpNsxDjcQd-COcYkA-92Yy9cCmQtSE',
-    appId: '1:777309420549:ios:63580e2f4ff406d423b06c',
-    messagingSenderId: '777309420549',
-    projectId: 'brew-crew-a039e',
-    storageBucket: 'brew-crew-a039e.appspot.com',
-    iosBundleId: 'com.example.flutterApplication1.RunnerTests',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
