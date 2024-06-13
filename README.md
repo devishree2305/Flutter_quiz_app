@@ -20,3 +20,20 @@ This is a comprehensive quiz application developed using Flutter. The app integr
    ```bash
    git clone https://github.com/devishree2305/Flutter_quiz_app.git
    cd Flutter_quiz_app
+
+## Install Dependencies
+
+flutter pub get
+
+## Run the app
+
+flutter run
+
+## Usage
+
+- **Admin Panel**: Accessible to authenticated users with @admin.com account id. Admins can add new quiz questions and delete existing ones.
+- **Take a Quiz**: Users can select a subject and take a quiz. Results are stored in Firebase Cloud Firestore.
+
+## Screenshots
+
+
