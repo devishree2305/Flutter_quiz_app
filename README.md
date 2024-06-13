@@ -37,15 +37,19 @@ flutter run
 ## Screenshots
 
 - **Student login**
-  ![Student login](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Student_page.jpg)
-  ![Quiz Page](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Quiz_page.jpg)
-  ![Settings](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Settings.jpg)
-  ![Result Page](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Result_page.jpg)
+  <div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Student_page.jpg" alt="Student login" width="200" />
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Quiz_page.jpg" alt="Quiz Page" width="200" />
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Settings.jpg" alt="Settings" width="200" />
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Result_page.jpg" alt="Result Page" width="200" />
+</div>
 
 - **Admin Pane**
-  ![Admin Panel](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Admin_panel.jpg)
-  ![Student attended quiz](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Student_aattended_quizzes.jpg)
-  ![Add questions](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/add_question.jpg)
-  ![Delete questions](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Delete_question.jpg)
+  <div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Admin_panel.jpg" alt="Admin Panel" width="200" />
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Student_aattended_quizzes.jpg" alt="Student attended quiz" width="200" />
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/add_question.jpg" alt="Add questions" width="200" />
+  <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Delete_question.jpg" alt="Delete questions" width="200" />
+</div>
 
 
