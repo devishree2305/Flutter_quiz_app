@@ -52,7 +52,7 @@ flutter run
   <img src="https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Delete_question.jpg" alt="Delete questions" width="200" />
 </div>
 
-## NOTE Firebase Tools Large File
+## NOTE: Firebase Tools Large File
 
 Before running the Flutter app, please ensure to add the Firebase tools large file (firebase-tools-instant-win.exe). This file was removed from the repository due to its large size and can be obtained separately.
 
