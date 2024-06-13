@@ -43,7 +43,7 @@ flutter run
   ![Result Page](https://devishree2305/Flutter_quiz_app/screenshots/Result_page.jpg)
 
 - **Admin Pane**
-  ![Admin Panel](https://devishree2305/Flutter_quiz_app/Screenshots/Admin_panel.jpg)
+  ![Admin Panel](https://github.com/devishree2305/Flutter_quiz_app/blob/main/Screenshots/Admin_panel.jpg)
   ![Student attended quiz](https://devishree2305/Flutter_quiz_app/Screenshots/admin_panel.png)
   ![Add questions](https://devishree2305/Flutter_quiz_app/Screenshots/quiz_screen.png)
   ![Delete questions](https://devishree2305/Flutter_quiz_app/Screenshots/result_screen.png)
