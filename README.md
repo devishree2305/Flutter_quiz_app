@@ -61,6 +61,3 @@ You can download the Firebase tools large file from Firebase website or Firebase
 
 After downloading the file, place it in the appropriate directory in your Flutter project to ensure proper functionality with Firebase services.
 
-## Contact
-
-If you have any questions/suggestions, feel free to open an issue or contact me at devishreenadar.official@gmail.com.
